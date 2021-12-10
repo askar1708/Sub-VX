@@ -1,6 +1,6 @@
 # REFRENCED CODE:
 #   https://www.datacamp.com/community/tutorials/face-detection-python-opencv
-#
+#   name 
 # DATE: October 12th, 2021
 # DESCRIPTION: This program is meant to provide facial-recognition capabilities to the rest of the project.
 #
@@ -9,6 +9,8 @@
 #   matplotlib | pip install -U matplotlib \\For testing
 #   numpy | pip install numpy \\For matrix manipulation
 
+
+# this is a test
 
 __opencv_version__ = r'4.1.1'
 
